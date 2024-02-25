@@ -23,25 +23,19 @@ To run the Travel Suggestion Recommendation System locally, follow these steps:
    git clone https://github.com/your_username/travel-recommendation-system.git
    ```
 
-2. Navigate to the project directory:
-
-   ```bash
-   cd travel-recommendation-system
-   ```
-
-3. Install the required dependencies:
+2. Install the required dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. Launch the Jupyter Notebook:
+3. Launch the Jupyter Notebook:
 
    ```bash
    jupyter notebook
    ```
 
-5. Open the `Travel_Suggestion_System.ipynb` notebook and execute the cells to interact with the system.
+4. Open the `Travel_Suggestion_System.ipynb` notebook and execute the cells to interact with the system.
 
 ## Usage
 
